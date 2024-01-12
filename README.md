@@ -1,5 +1,18 @@
 # Brief UML (KéKés Voyages)
-*( Thomas, Nicolas et Cécile )*
+*Thomas <a href="https://github.com/Thomas6A"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>  
+ Nicolas <a href="https://github.com/NicolasDrp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>   
+ et Cécile <a href="https://github.com/Huriaux"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>*
+
+
+## Documentation des éléments du modèle UML
+***Ce projet vise à concevoir et à modéliser une plateforme de réservation en ligne de billets d'avion pour l’agence KéKés Voyages.
+L'approche utilisée est basée sur le standard UML pour assurer une modélisation systématique et complète du système.
+Le rendu se compose en 5 parties :***
+- les règles de gestion,
+- le diagramme de cas d’utilisation,
+- le diagramme de classes,
+- les diagrammes de séquence à partir du diagramme de classes,
+- et la documentation de chaque diagramme
 
 ## Règles de gestion qui régissent le système, comme la validation des données, les autorisations d'accès, etc.
 #### Un client peut :
@@ -22,17 +35,6 @@
 - le Passeport/CNI du client
 - les informations bancaires
 - les itinéraires
-
-## Documentation des éléments du modèle UML
-***Ce projet vise à concevoir et à modéliser une plateforme de réservation en ligne de billets d'avion pour l’agence KéKés Voyages.
-L'approche utilisée est basée sur le standard UML pour assurer une modélisation systématique et complète du système.
-Le rendu se compose en 5 parties :***
-- les règles de gestion,
-- le diagramme de cas d’utilisation,
-- le diagramme de classes,
-- les diagrammes de séquence à partir du diagramme de classes,
-- et la documentation de chaque diagramme
-
 
 
 ## 1. DIAGRAMME DE CAS D’UTILISATION
